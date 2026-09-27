@@ -1,0 +1,5 @@
+Scheduling :
+
+Cron 
+Airflow 
+While loop can also used to Schedule

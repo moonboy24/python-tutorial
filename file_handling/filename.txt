@@ -1,0 +1,3 @@
+Welcome to Py file handling
+This is write operation
+Added a new line

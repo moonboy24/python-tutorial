@@ -1,0 +1,5 @@
+
+Matplot lib - Library in python to create static , animated and interactive plots 
+
+Pyplot - provides functions to make plots just like MatLab
+
